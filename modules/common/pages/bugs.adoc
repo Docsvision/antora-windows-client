@@ -1,6 +1,6 @@
 = Исправленные ошибки
 
-include::webclient:admin:partial$table.adoc[]
+include::5.5.17@webclient:admin:partial$table.adoc[]
 |ERR-3767 (SUP-7476)
 |При сортировке ссылок в ЭУ `_Ссылки_` по "Дате создания", даты сортировались как строки, а не по дате (год-месяц-число).
 

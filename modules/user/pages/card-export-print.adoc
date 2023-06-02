@@ -121,7 +121,7 @@ include::partial$excerpts.adoc[tags=html]
 Будет открыто окно почтовой программы в режиме создания нового письма. Письмо будет содержать ссылку на карточку, данные которой отправляются по почте.
 
 [#xslt]
-include::backoffice:desdirs:partial$excerpts.adoc[tags=xslt]
+include::5.5.5@backoffice:desdirs:partial$excerpts.adoc[tags=xslt]
 
 [#get-card-url]
 == Получение URL-адреса карточки
