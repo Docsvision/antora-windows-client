@@ -1,7 +1,5 @@
 name: winclient
-version: "5.5.4_m4d"
-display_version: "5.5.4_МЧД"
-prerelease: true
+version: "5.5.4"
 title: Windows-клиент
 asciidoc:
   attributes:
