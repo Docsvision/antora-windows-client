@@ -147,4 +147,4 @@ image::card-export-print-rma.png[Окно "Экспорт и печать"]
 include::partial$excerpts.adoc[tags=send-mail]
 ====
 
-include::5.5.5@backoffice:desdirs:partial$excerpts.adoc[tags=xslt]
+include::desdirs::partial$excerpts.adoc[tags=xslt]
