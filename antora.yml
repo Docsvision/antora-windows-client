@@ -1,5 +1,6 @@
 name: winclient
-version: "5.5.4"
+version: "GBL-3269"
+prerelease: true
 title: Windows-клиент
 asciidoc:
   attributes:
